@@ -1,4 +1,4 @@
-Welcome to Scale soft solutions
+Welcome to learn full stack in scale soft solution
 Here we teaching many courses with live demo
 React
 Sql
