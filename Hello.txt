@@ -1,1 +1,5 @@
 Welcome to Scale soft solutions
+Here we teaching many courses with live demo
+React
+Sql
+ASP.NET
